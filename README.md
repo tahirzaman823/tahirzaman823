@@ -36,6 +36,10 @@
   <a href="mailto:m.tahirzaman823@gmail.com">
     📧 Email
   </a>
+  &nbsp;•&nbsp;
+  <a href="https://online-blog-page.vercel.app/">
+    📧 My blogs
+  </a>
 </p>
 
 ---
