@@ -63,7 +63,7 @@
 <td>Clean and Predict student performance in secondary education (high school).</td>
 <td>Python | Pandas | Jupyter Notebook</td>
 <td>
-<a href="[https://github.com/tahirzaman823](https://github.com/tahirzaman823/Student-Performance-Data-Analysis)">Repository</a> •
+<a href="[https://github.com/tahirzaman823/Student-Performance-Data-Analysis]()">Repository</a> •
 
 </td>
 </tr>
