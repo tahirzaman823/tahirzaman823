@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-<td><b>Student Performance - Data Analysis</b></td>
+<td><b> 🎓📊 Student Performance - Data Analysis</b></td>
 <td>Clean and Predict student performance in secondary education (high school).</td>
 <td>Python | Pandas | Jupyter Notebook</td>
 <td>
