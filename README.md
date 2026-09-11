@@ -5,22 +5,22 @@
   </a>
 </h1>
 
-<h3 align="start">
-  A Data Science Undergraduate & Full-Stack Web Developer transforming complex data into actionable insights and building scalable digital products.
-</h3>
+
+  I am a passionate **Data Science undergraduate** at [QUEST University](https://quest.edu.pk/), currently exploring the field of **Web Development** to gain practical, real-world experience. I have also completed the [Microsoft Full-Stack Developer Professional Certificate](https://coursera.org/share/d7b7fde8c125d1524cca568a0b4c92cd) on [Coursera](https://www.coursera.org/).
 
 
----
+## About Me
 
-## 🚀 About Me
+- 🎓 Studying **B.Sc. in Data Science** (4rd Year, 1th Semester)
+- 📊 Interested in **Data Engineering, Data Analytics, AI/ML, Data Science, & Web Development projects**
+- 💻 Working as a **Freelancer** 
+- 💡 Passionate about **building end-to-end data and web projects** and **real-time analytics dashboards**
 
-- 🔬 **Data Science Undergraduate** at QUEST Pakistan, passionate about automated data cleaning pipelines, exploratory data analysis, and predictive modeling.
-- 🌐 **Full-Stack Developer** specializing in building responsive web applications with modern HTML, CSS, JavaScript, PHP, MySQL, and React frameworks.
-- 📊 Experienced in processing datasets using **Python, Pandas, and NumPy** to extract clean, structured business insights.
-- ⚡ Creator of practical applications including medical booking systems, task management dashboards (`Aratoz-Todo`), and AI-assisted writing tools (`INKARA`).
-- 💡 Ask me about **Python, Pandas, NumPy, SQL, JavaScript, React, REST APIs, and Database Management**.
-- 🌱 Currently learning advanced **Data Science methodologies, Machine Learning architectures, and Cloud Deployment**.
-- ⚡ Fun Fact: **I love combining clean UI aesthetics like glassmorphism and modern dark themes with robust data pipelines.**
+### 🛠️ Tech & Focus
+
+- 🔬 Exploring data pipelines, exploratory data analysis, and predictive modeling
+- 🌐 Building responsive web apps with **HTML, CSS, JavaScript, PHP, MySQL, and React**
+
 
 ### 📫 Connect With Me
 
@@ -38,11 +38,11 @@
   </a>
   &nbsp;•&nbsp;
   <a href="https://online-blog-page.vercel.app/">
-    📧 My blogs
+    ✍️ My Blogs
   </a>
 </p>
 
-
+---
 
 ## 🚀 Featured Projects
 
@@ -59,12 +59,11 @@
 </tr>
 
 <tr>
-<td><b> 🎓📊 Student Performance - Data Analysis</b></td>
-<td>Clean and Predict student performance in secondary education (high school).</td>
-<td>Python | Pandas | Jupyter Notebook</td>
+<td><b>🎓📊 Student Performance - Data Analysis</b></td>
+<td>Clean and predict student performance in secondary education (high school).</td>
+<td>Python • Pandas • Jupyter Notebook</td>
 <td>
 <a href="https://github.com/tahirzaman823/Student-Performance-Data-Analysis">Repository</a>
-
 </td>
 </tr>
 
@@ -100,7 +99,6 @@
 
 </table>
 
-
 ---
 
 ## 📊 GitHub Contributions
@@ -111,11 +109,11 @@
   </a>
 </p>
 
-<p >
+<p>
   <b>💡 Open to Freelance • Collaborations • Open Source • Data Science & Web Development</b>
 </p>
 
-<p >
+<p>
   ⭐ If you like my work, consider starring my repositories!
 </p>
 
@@ -125,5 +123,4 @@
   </a>
 </p>
 
-
-  ---
+---
