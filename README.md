@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 🎓 Studying **B.Sc. in Data Science** (4rd Year, 1th Semester)
+- 🎓 Studying **B.Sc. in Data Science** (4rd Final Year, 1th Semester)
 - 📊 Interested in **Data Engineering, Data Analytics, AI/ML, Data Science, & Web Development projects**
 - 💻 Working as a **Freelancer** 
 - 💡 Passionate about **building end-to-end data and web projects** and **real-time analytics dashboards**
