@@ -20,9 +20,12 @@
 ## 👤 About Me
 
 - 🎓 **B.Sc. Data Science** — Final Year, 1st Semester @ [QUEST University](https://quest.edu.pk/)
-- 📜 Completed the **Microsoft Full-Stack Developer Professional Certificate** on Coursera
+- 📜 Completed the Certificate <br>
+      ⚙️ [**Microsoft Full-Stack Developer Professional**](https://coursera.org/share/d7b7fde8c125d1524cca568a0b4c92cd) <br>
+      ⚙️ [**IBM Data Engineering Professional**](https://coursera.org/share/fbba2fa662d8ee0d296ed68c8ff716ec) <br>
+      ⚙️ [**Google Data Analytics Professional**](https://coursera.org/share/c9113424bd4b011106df73ac9af383bc) on Coursera
 - 💻 Working as a **Freelance Developer**, alongside my data science studies
-- 📊 Focused on **Data Science, Data Engineering, Data Analytics, AI/ML**, and **Web Development**
+- 📊 Focused on **Data Science, Data Engineering, Data Analytics,** and **Web Development**
 - 💡 Passionate about building **end-to-end data & web projects** and **real-time analytics dashboards**
 
 ---
@@ -43,11 +46,6 @@
 <br>
   Digging into data through exploratory analysis to extract clear, actionable insights.
 <br>`Pandas` `NumPy` `Data Visualization`
-
-**🤖 AI / ML :**
-<br>
-  Building predictive models and experimenting with AI-assisted tools to solve real problems.
-<br>`Python` `Scikit-learn` `NLP`
 
 **🌐 Web Development :**
 <br>
