@@ -1,126 +1,120 @@
-<h1 align="start">
-  👋 Hi, I'm
-  <a href="https://my-portfolio-gules-phi-87.vercel.app/" target="_blank">
-    Tahir Zaman
-  </a>
+<h1>
+  Hi, I'm Tahir Zaman
 </h1>
 
 
-  I am a passionate **Data Science undergraduate** at [QUEST University](https://quest.edu.pk/), currently exploring the field of **Web Development** to gain practical, real-world experience. I have also completed the [Microsoft Full-Stack Developer Professional Certificate](https://coursera.org/share/d7b7fde8c125d1524cca568a0b4c92cd) on [Coursera](https://www.coursera.org/).
-
-
-## About Me
-
-- 🎓 Studying **B.Sc. in Data Science** (4rd Final Year, 1th Semester)
-- 📊 Interested in **Data Engineering, Data Analytics, AI/ML, Data Science, & Web Development projects**
-- 💻 Working as a **Freelancer** 
-- 💡 Passionate about **building end-to-end data and web projects** and **real-time analytics dashboards**
-
-### 🛠️ Tech & Focus
-
-- 🔬 Exploring data pipelines, exploratory data analysis, and predictive modeling
-- 🌐 Building responsive web apps with **HTML, CSS, JavaScript, PHP, MySQL, and React**
-
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://my-portfolio-gules-phi-87.vercel.app/" target="_blank">
-    🌐 Portfolio
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/tahir-zaman-379b0a405/" target="_blank">
-    💼 LinkedIn
-  </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:m.tahirzaman823@gmail.com">
-    📧 Email
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://online-blog-page.vercel.app/">
-    ✍️ My Blogs
-  </a>
+<p>
+  I'm a Data Scientist and a freelance full-stack developer. I build data pipelines that turn raw data into useful insights, and I develop end-to-end web applications that bring those insights to real users.
 </p>
+
+<p>
+  <a href="https://my-portfolio-gules-phi-87.vercel.app/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/tahir-zaman-379b0a405/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="mailto:m.tahirzaman823@gmail.com"><b>Email</b></a> •
+  <a href="https://online-blog-page.vercel.app/" target="_blank"><b>Blog</b></a>
+</p>
+
+
+---
+
+## 👤 About Me
+
+- 🎓 **B.Sc. Data Science** — Final Year, 1st Semester @ [QUEST University](https://quest.edu.pk/)
+- 📜 Completed the **Microsoft Full-Stack Developer Professional Certificate** on Coursera
+- 💻 Working as a **Freelance Developer**, alongside my data science studies
+- 📊 Focused on **Data Science, Data Engineering, Data Analytics, AI/ML**, and **Web Development**
+- 💡 Passionate about building **end-to-end data & web projects** and **real-time analytics dashboards**
+
+---
+
+## 🗂️ Domains I Work In
+
+**📈 Data Science :**
+<br>
+  Exploring datasets to uncover patterns and build models that support decision-making.
+<br>`Python` `Pandas` `NumPy`
+
+**📊 Data Engineering :**
+<br>
+  Cleaning, transforming, and structuring raw data using ETL-style methods to make it analysis-ready.
+<br>`SQL` `ETL` `Python`
+
+**🔬 Data Analytics :**
+<br>
+  Digging into data through exploratory analysis to extract clear, actionable insights.
+<br>`Pandas` `NumPy` `Data Visualization`
+
+**🤖 AI / ML :**
+<br>
+  Building predictive models and experimenting with AI-assisted tools to solve real problems.
+<br>`Python` `Scikit-learn` `NLP`
+
+**🌐 Web Development :**
+<br>
+  Designing and building full-stack applications, from database logic to user-facing interfaces.
+<br>`React` `JavaScript` `PHP` `MySQL`
 
 ---
 
 ## 🚀 Featured Projects
 
-> A selection of projects showcasing my work across Data Science and Full-Stack Web Development.
-
-<br>
-
 <table>
 <tr>
-<th width="20%">Project</th>
-<th width="42%">Description</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
 <th width="23%">Technologies</th>
 <th width="15%">Links</th>
 </tr>
 
 <tr>
-<td><b>🎓📊 Student Performance - Data Analysis</b></td>
-<td>Clean and predict student performance in secondary education (high school).</td>
+<td><b>🎓📊 Student Performance — Data Analysis</b></td>
+<td>Cleaned and modeled student performance data to predict outcomes in secondary education.</td>
 <td>Python • Pandas • Jupyter Notebook</td>
-<td>
-<a href="https://github.com/tahirzaman823/Student-Performance-Data-Analysis">Repository</a>
-</td>
+<td><a href="https://github.com/tahirzaman823/Student-Performance-Data-Analysis">Repository</a></td>
 </tr>
 
 <tr>
 <td><b>📝 Aratoz-Todo</b></td>
-<td>A modern task management dashboard designed for tracking daily productivity and project goals.</td>
+<td>A modern task management dashboard for tracking daily productivity and project goals.</td>
 <td>JavaScript • CSS • LocalStorage</td>
-<td>
-<a href="https://github.com/tahirzaman823">Repo</a> •
-<a href="#">Demo</a>
-</td>
+<td><a href="https://github.com/tahirzaman823">Repo</a> • <a href="#">Demo</a></td>
 </tr>
 
 <tr>
 <td><b>🏥 Doctor Appointment Booking</b></td>
 <td>Web application streamlining medical appointment scheduling and patient record management.</td>
 <td>PHP • MySQL • JavaScript</td>
-<td>
-<a href="https://github.com/tahirzaman823">Repo</a> •
-<a href="#">Live</a>
-</td>
+<td><a href="https://github.com/tahirzaman823">Repo</a> • <a href="#">Live</a></td>
 </tr>
 
 <tr>
 <td><b>🌐 Portfolio Website</b></td>
-<td>Personal responsive portfolio website built with modern CSS aesthetics and custom UI styling.</td>
+<td>Personal responsive portfolio site with custom UI styling and modern CSS aesthetics.</td>
 <td>HTML • CSS • JavaScript</td>
-<td>
-<a href="https://github.com/tahirzaman823">Repo</a> •
-<a href="https://my-portfolio-gules-phi-87.vercel.app/">Website</a>
-</td>
+<td><a href="https://github.com/tahirzaman823">Repo</a> • <a href="https://my-portfolio-gules-phi-87.vercel.app/">Website</a></td>
 </tr>
 
 </table>
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub
 
-<p>
-  <a href="https://github.com/tahirzaman823">
-    <img src="https://img.shields.io/badge/GitHub-Profile--Stats-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <b>💡 Open to Freelance • Collaborations • Open Source • Data Science & Web Development</b>
-</p>
-
-<p>
-  ⭐ If you like my work, consider starring my repositories!
-</p>
-
-<p>
+<p align="left">
   <a href="https://github.com/tahirzaman823">
     <img src="https://img.shields.io/badge/GitHub-@tahirzaman823-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirzaman823&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" height="150"/>
+</p>
+
+<p align="left">
+  💡 <b>Open to:</b> Freelance work • Collaborations • Open Source • Data Science & Web Development
+</p>
+
+<p align="left">
+  ⭐ If you like my work, consider starring my repositories!
 </p>
 
 ---
+
+<p align="center"><i>Thanks for stopping by!</i></p>
