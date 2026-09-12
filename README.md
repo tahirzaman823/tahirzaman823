@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Tahir Zaman
+  Hi, I'm <a href="https://tahir-zaman-web-portfolio.vercel.app/" target="_blank"><b>Tahir Zaman</b></a>
 </h1>
 
 
@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://my-portfolio-gules-phi-87.vercel.app/" target="_blank"><b>Portfolio</b></a> •
+  <a href="https://tahir-zaman-web-portfolio.vercel.app/" target="_blank"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/tahir-zaman-379b0a405/" target="_blank"><b>LinkedIn</b></a> •
   <a href="mailto:m.tahirzaman823@gmail.com"><b>Email</b></a> •
   <a href="https://online-blog-page.vercel.app/" target="_blank"><b>Blog</b></a>
