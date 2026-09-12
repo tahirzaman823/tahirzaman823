@@ -99,10 +99,8 @@
 ## 📊 GitHub
 
 <p align="left">
-  <a href="https://github.com/tahirzaman823">
-    <img src="https://img.shields.io/badge/GitHub-@tahirzaman823-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirzaman823&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" height="150"/>
+
+ <img src="https://streak-stats.demolab.com/?user=tahirzaman823&theme=default" alt="GitHub streak stats" height="150"/>
 </p>
 
 <p align="left">
@@ -112,7 +110,8 @@
 <p align="left">
   ⭐ If you like my work, consider starring my repositories!
 </p>
-
----
+  <a href="https://github.com/tahirzaman823">
+    <img src="https://img.shields.io/badge/GitHub-@tahirzaman823-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 <p align="center"><i>Thanks for stopping by!</i></p>
